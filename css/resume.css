@@ -174,3 +174,11 @@ a {
 a:hover, a:focus, a:active {
   color: #e97770;
 }
+
+ul ul {
+  list-style-type: disc;
+}
+
+.navbar-dark .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.5);
+}
