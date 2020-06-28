@@ -14,3 +14,15 @@ a {
     color: $base;
   }
 }
+
+ul{
+  ul{
+    list-style-type: disc;
+  }
+}
+
+.navbar-dark{
+  .navbar-toggler{
+    border-color:rgba(255,255,255,.5);
+  }
+}
