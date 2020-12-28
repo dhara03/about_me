@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Resume Preview]](./img/Screenshot-Resume.jpg)
+![Resume Preview](./img/Screenshot-Resume.jpg)
 
 **[View Live Preview](https://dhara03.github.io/about_me/)**
 
